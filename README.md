@@ -1,13 +1,13 @@
 # Airline Operations & Performance Analytics Dashboard
 
-**Author:** Roshni  
+**Author:** Roshni Ghosh Tagore
 **Tech Stack:** Python · Pandas · NumPy · Plotly · Streamlit
 
 ---
 
 ## Project Overview
 
-A professional Business / Data Analytics dashboard that transforms raw flight-operations data into actionable executive insights. The project demonstrates a complete end-to-end analytics workflow:
+A professional Data Analytics dashboard that transforms raw flight-operations data into actionable executive insights. The project demonstrates a complete end-to-end analytics workflow:
 
 ```
 Raw Data → Cleaning → Validation → KPI Analysis → Trends → Drivers → Risk → Opportunity → Action → Dashboard → Executive Insights
